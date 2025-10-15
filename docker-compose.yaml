@@ -1,0 +1,10 @@
+# docker-compose.yml:
+services:
+  api-proxy:
+    build: .
+    ports:
+      - "3001:3001"
+    environment:
+      - API_KEY
+      - TARGET_URL
+    restart: always
