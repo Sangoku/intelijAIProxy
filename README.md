@@ -12,7 +12,9 @@ Because Intelij cant use auth tokens atm for external LLM providers, this repo i
 4. After starting the service, go to IntelliJ IDEA, navigate to `AI Assistant -> Models`, and configure the provider as follows:
     - Provider: `openAi`
     - API Location: `http://localhost:3001`
+    -  ![modelSetup.png](modelSetup.png)
 5. Test the connection to ensure everything is working correctly.
 
 After that the models from your provider should be in the dropdown in the chat  inside intelij
 
+![modelSelection.png](modelSelection.png)
