@@ -1,5 +1,5 @@
 # IntelijAIProxy
-
+Because Intelij cant use auth tokens atm for external LLM providers, this repo is a quick fix for that problem. 
 ## Instructions
 
 1. First, copy `env_example` as `.env`.
