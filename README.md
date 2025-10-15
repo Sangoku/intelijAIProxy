@@ -14,5 +14,5 @@
     - API Location: `http://localhost:3001`
 5. Test the connection to ensure everything is working correctly.
 
-after that the models from your provider shold be in the dropdown in the chat  inside intelij
+After that the models from your provider should be in the dropdown in the chat  inside intelij
 
